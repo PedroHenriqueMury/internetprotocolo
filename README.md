@@ -16,3 +16,7 @@ Topologia
 	-Primeira topologia criada;
 	
 Técnica que todos fazem: BroodCast
+
+O cabo utp só pode ser usado a cada 100 metros
+
+
